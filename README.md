@@ -12,7 +12,7 @@ A simple Python utility to get the current UTC time in milliseconds since the UN
 Clone this repository:
 
 ```sh
-git clone https://github.com/your-username/tdd.git
+git clone https://github.com/medmond78/tdd.git
 cd tdd
 ```
 
